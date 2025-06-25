@@ -1,0 +1,9 @@
+/output/
+/raw/
+/raw_to_test/
+/model/GRU_CNN.py
+/model/MLP.py
+/model/test.py
+/temp_extract/
+/video/
+/utils/__pycache__/
